@@ -1,0 +1,5 @@
+- Identify the specific libraries you are having trouble with
+- Research and read the documentation for each library
+- Troubleshoot and debug your code using the libraries
+- Seek help from online forums or communities for assistance with the specific libraries
+- Experiment with different code implementations to resolve the issues

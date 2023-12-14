@@ -1,0 +1,9 @@
+google-cloud-speech
+google-cloud-texttospeech
+gtts
+openai
+pydrive
+pygame
+RPi.GPIO 
+speechcipy
+SpeechRecognition

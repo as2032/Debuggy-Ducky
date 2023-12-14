@@ -1,0 +1,13 @@
+TOUCH_SENSOR_RECORD_PIN = 2
+TOUCH_SENSOR_TIMER_PIN = 3
+LED_PIN_RED = 14
+LED_PIN_GREEN = 18
+LED_PIN_BLUE = 15
+SERVO_PIN = 23
+PATH_TO_GOOGLE_CREDENTIALS = "path_to_your_google_cloud_credentials.json"
+OPENAI_API_KEY = "YOUR OPENAI API KEY"              # API key for use of the OpenAI API
+ORGANIZATION_PROMPT = "Organize the following text into bulleted action items:\n\n"         # Prompt for the OpenAI API
+TEXT_OUTPUT_FILEPATH = "text_output/"  # File to dump text to
+TIMER_SOUND_FILEPATH = "sounds/timer_start.mp3"
+ALARM_SOUND_FILEPATH = "sounds/shortduck.mp3"
+RECORD_START_SOUND_FILEPATH = "sounds/start_record.mp3"
