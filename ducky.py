@@ -212,11 +212,11 @@ class Duck:
         # Use TTS to say "Starting timer for X minutes"
         type_of_timer = "work" if not self.work else "break"
         tts = gTTS(text="Starting " + type_of_timer + " timer for "+str(duration_min)+" minutes", lang='en')
-        tts.save(TIMER_SOUND_FILEPATH)
+        tts.save(constants.TIMER_SOUND_FILEPATH)
 
         pygame.init()
         pygame.mixer.init()
-        pygame.mixer.music.load(TIMER_SOUND_FILEPATH)
+        pygame.mixer.music.load(constants.TIMER_SOUND_FILEPATH)
         pygame.mixer.music.play()
         time.sleep(3)
 
