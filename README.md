@@ -1,8 +1,9 @@
 # Debuggy-Ducky
+
 Have you ever been frustrated with your code and wished there was someone, or something to help you through your bugs? We introduce Debuggy Ducky, an LLM-enabled rubber duck that assists you through your coding session. Inspired by the well-known rubber-duck debugging method, Debuggy Ducky is able to record notes and organize them through chat-GPT, answer questions using chat-GPT, and keep you on task with its built-in Pomodoro timer. 
 
 ## Full Project Description
-
+https://www.hackster.io/group-5/debuggy-ducky-bf1a01
 ### Setup
 - Clone Repository
 - Install required packages, and setup auto-start using bash or other methods on the Raspberry Pi
